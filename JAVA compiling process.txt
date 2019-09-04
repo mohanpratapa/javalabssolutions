@@ -1,0 +1,6 @@
+Java compilaton process:
+
+Editor--->Source code(filename.java)--->Java compiler-->Bytecode(filename.class)--->Java virtual machine-->running program
+
+
+JVM--interpreter,transalates each intermediate instruction into machine language that is executed by the actual hardware
